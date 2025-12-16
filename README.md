@@ -8,7 +8,6 @@ This work explores **physical machine learning**, using water as a dynamical med
 - **Related publication:**  
   https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.014320  
 - **Additional project details:** 1. [https://www.tu.berlin/cpsme/studium-lehre/lehrveranstaltungen/x-student-research-group]
-  
   2. [https://maneesh51.github.io/projects/scikit/]
 
 <p align="center">
