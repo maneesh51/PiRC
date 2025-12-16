@@ -11,7 +11,7 @@ This work explores **physical machine learning**, using water as a dynamical med
   2. [https://maneesh51.github.io/projects/scikit/]
 
 <p align="center">
-  <img src="https://github.com/maneesh51/PDNE/blob/main/Fig1.png" width="600">
+  <img src="https://github.com/maneesh51/PiRC/blob/main/IMG_1422.MOV" width="600">
 </p>
 
 ## Repository Overview
