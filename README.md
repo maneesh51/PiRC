@@ -42,15 +42,25 @@ The system is controlled using a **Raspberry Pi 3**, connected as follows:
 - activate this environment using: source pienv2/bin/activate
 - **test the connections** and detect the connected servo motors with: i2cdetect -y 1
 - if 2 motors are connected then it will show something like:
+- 
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+  
 00:                         -- -- -- -- -- -- -- -- 
+
 10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 40: 40 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
 70: 70 -- -- -- -- -- -- --
+
 - run the script using: python3 XOR_servo.py
   
 
